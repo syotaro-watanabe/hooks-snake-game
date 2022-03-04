@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hooks-snake-game/static/css/main.cb02662a.css",
+    "main.js": "/hooks-snake-game/static/js/main.1ec5757e.js",
+    "static/js/787.d7f42b47.chunk.js": "/hooks-snake-game/static/js/787.d7f42b47.chunk.js",
+    "index.html": "/hooks-snake-game/index.html",
+    "main.cb02662a.css.map": "/hooks-snake-game/static/css/main.cb02662a.css.map",
+    "main.1ec5757e.js.map": "/hooks-snake-game/static/js/main.1ec5757e.js.map",
+    "787.d7f42b47.chunk.js.map": "/hooks-snake-game/static/js/787.d7f42b47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb02662a.css",
+    "static/js/main.1ec5757e.js"
+  ]
+}
